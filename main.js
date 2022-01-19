@@ -2,10 +2,13 @@ document
   .querySelectorAll('.fa-icon')
   .forEach(el => el.removeAttribute('aria-hidden'))
 
-document
-  .getElementsByClassName('social-media-button')[0]
-  .addEventListener('click', () =>
-    document
-      .getElementsByClassName('article-author')[0]
-      .classList.toggle('active')
-  )
+const sharePopUp = document.getElementsByClassName('article-author')[0]
+
+window.addEventListener('click', event => {
+  if (
+    event.target.classList.contains('social-media-button') ||
+    sharePopUp.classList.contains('active')
+  ) {
+    sharePopUp.classList.toggle('active')
+  }
+})
