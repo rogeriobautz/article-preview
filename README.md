@@ -24,17 +24,17 @@ Users should be able to:
 
 ### Screenshot
 
-- Mobile - 375x667: [./screenshots/mobile.png]
-  Active [./screenshots/mobile-active.png]
+- Mobile - 375x667: [https://github.com/rogeriobautz/article-preview/screenshots/mobile.png]
+  Active [https://github.com/rogeriobautz/article-preview/screenshots/mobile-active.png]
 
-- Tablet - 768x1024:[./screenshots/tablet.png]
-  Active [./screenshots/tablet-active.png]
+- Tablet - 768x1024:[https://github.com/rogeriobautz/article-preview/screenshots/tablet.png]
+  Active [https://github.com/rogeriobautz/article-preview/screenshots/tablet-active.png]
 
-- Small Screen - 1024x768:[./screenshots/small-screen.png]
-  Active [./small-screen-active.png]
+- Small Screen - 1024x768:[https://github.com/rogeriobautz/article-preview/screenshots/small-screen.png]
+  Active [https://github.com/rogeriobautz/article-preview/small-screen-active.png]
 
-- Desktop - 1440x800: [./screenshots/desktop.png]
-  Active [./screenshots/desktop-active.png]
+- Desktop - 1440x800: [https://github.com/rogeriobautz/article-preview/screenshots/desktop.png]
+  Active [https://github.com/rogeriobautz/article-preview/screenshots/desktop-active.png]
 
 ### Links
 
